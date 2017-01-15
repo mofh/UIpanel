@@ -1,3 +1,13 @@
 body {
     background: url("../images/section-background.svg") no-repeat scroll 50% 50%, rgba(0, 0, 0, 0) linear-gradient(to left top, #28a5f5, #1e87f0) no-repeat scroll 0 0;
 }
+
+#cpanel {
+    background-color: #fff;
+    border-color: #ccc #666 #666 #ccc;
+    border-style: solid;
+    border-width: 1px;
+    margin: 0 auto;
+    padding: 3px;
+    width: 900px !important;
+}
