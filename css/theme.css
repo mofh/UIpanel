@@ -12,7 +12,7 @@ body {
     border-image: none;
     border-style: solid;
     border-width: 1px;
-    border-radius: 0 5px 5px;
+    border-radius: 0 0 5px 5px;
     width: 900px !important;
 }
 #cpanel #border-efx {
@@ -43,6 +43,6 @@ div.stats_progress_bar {
 }
 .spriteheading_bg {
     background: #2b3034 none repeat scroll 0 0 !important;
-    border-radius: 0 5px 5px;
+    border-radius: 0 0 5px 5px;
     height: 30px !important;
 }
