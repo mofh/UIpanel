@@ -7,3 +7,8 @@ body {
     border: medium none !important;
     width: 900px !important;
 }
+#cpanel #border-efx {
+    border: medium none !important;
+    margin: 0;
+    padding: 0;
+}
