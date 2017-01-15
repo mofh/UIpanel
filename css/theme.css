@@ -4,10 +4,6 @@ body {
 
 #cpanel {
     background-color: #fff;
-    border-color: #ccc #666 #666 #ccc;
-    border-style: solid;
-    border-width: 1px;
-    margin: 0 auto;
-    padding: 3px;
+    border: medium none !important;
     width: 900px !important;
 }
