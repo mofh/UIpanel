@@ -12,3 +12,9 @@ body {
     margin: 0;
     padding: 0;
 }
+#cpanel #border-efx #content #sub {
+    width: 250px!important;
+}
+#cpanel #border-efx #content #main {
+    width: 600px!important;
+}
