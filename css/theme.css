@@ -40,3 +40,7 @@ div.stats_progress_bar {
     overflow: hidden;
     width: 100%!important;
 }
+.spriteheading_bg {
+    background: #2b3034 none repeat scroll 0 0 !important;
+    height: 30px !important;
+}
