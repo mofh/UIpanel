@@ -23,3 +23,13 @@ body {
     border: #e5e5e5 -moz-use-text-color -moz-use-text-color;
     border-radius: 0 0 3px 3px;
 }
+div.stats_progress_bar {
+    -moz-appearance: none;
+    background-color: #f8f8f8;
+    border: 0 none!important;
+    border-radius: 500px;
+    display: block;
+    height: 15px!important;
+    overflow: hidden;
+    width: 100%!important;
+}
