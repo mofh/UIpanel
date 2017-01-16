@@ -42,3 +42,6 @@ div.stats_progress_bar {
 .spriteheading_compleximg {
     background: #fafafa none repeat scroll 0 0 !important;
 }
+#heading-top-billboard {
+    height: 40px!important;
+}
