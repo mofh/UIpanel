@@ -14,6 +14,9 @@ body {
     margin: 0;
     padding: 0;
 }
+#cpanel #border-efx #content {
+    background: #FFFFFF none repeat scroll 0 0;
+}
 #cpanel #border-efx #content #sub {
     width: 250px!important;
 }
