@@ -39,3 +39,6 @@ div.stats_progress_bar {
     border-radius: 0 0 5px 5px;
     height: 30px !important;
 }
+.spriteheading_compleximg {
+    background: #fafafa none repeat scroll 0 0 !important;
+}
