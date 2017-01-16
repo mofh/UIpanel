@@ -54,3 +54,6 @@ div.stats_progress_bar {
     top: 47px;
     width: 380px;
 }
+#heading-top-billboard {
+    background: transparent none repeat scroll 0 0 !important;
+}
