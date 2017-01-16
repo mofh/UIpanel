@@ -1,7 +1,9 @@
 body {
     background: #EAEBEE none repeat scroll 0 0!important;
 }
-
+.cellheading, h3, h6, #notices h6, #quota-warnings h6, #content-stats h6 {
+    background: #1B2831 none repeat scroll 0 0!important;
+}
 #cpanel {
     background:transparent !important;
     border: medium none !important;
