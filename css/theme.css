@@ -21,7 +21,9 @@ a.hover {
     border: 1px solid transparent!important;
     color: #fff!important;
 }
-
+#tutorial_show {
+    background: #1e87f0 url("../images/tut_icon.gif") no-repeat scroll 6px 50%!important;
+}
 .clearitmed {
     display: none !important;
 }
