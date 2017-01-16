@@ -3,16 +3,11 @@ body {
 }
 
 #cpanel {
-    -moz-border-bottom-colors: none;
-    -moz-border-left-colors: none;
-    -moz-border-right-colors: none;
-    -moz-border-top-colors: none;
-    background-color: #FFFFFF none repeat scroll 0 0!important;
-    border: 1px solid #ccc!important;
+   border: medium none !important;
     border-radius: 0 0 5px 5px;
     padding: 0 !important;
     width: 900px !important;
-}
+    }
 #cpanel #border-efx {
     border: medium none !important;
     margin: 0;
