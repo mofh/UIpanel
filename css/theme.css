@@ -3,7 +3,8 @@ body {
 }
 
 #cpanel {
-   border: medium none !important;
+    background:transparent !important;
+    border: medium none !important;
     border-radius: 0 0 5px 5px;
     padding: 0 !important;
     width: 900px !important;
