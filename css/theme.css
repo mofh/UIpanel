@@ -15,7 +15,7 @@ body {
     padding: 0;
 }
 #cpanel #border-efx #content {
-    background: #FFFFFF none repeat scroll 0 0;
+    background: #FAFAFA none repeat scroll 0 0;
 }
 #cpanel #border-efx #content #sub {
     width: 250px!important;
@@ -24,7 +24,7 @@ body {
     width: 600px!important;
 }
 .cellbox {
-    background: #f8f8f8 none repeat scroll 0 0;
+    background: #FAFAFA none repeat scroll 0 0;
     border: #e5e5e5 -moz-use-text-color -moz-use-text-color;
     border-radius: 0 0 3px 3px;
 }
