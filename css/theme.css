@@ -36,9 +36,13 @@ color: #fff!important;
     padding: 5px 0 0;
 }
 .spriteheading_img {
-    background: rgba(52, 68, 73, 0.3)  url("/panel/res/heading_sprites_img.png") repeat scroll 0 0!important;
+    background: rgba(52, 68, 73, 0.3)!important;
 }
-    
+#heading-home_off {
+    background-position: 0 center !important;
+    height: 35px!important;
+    width: 35px;
+}    
 #cpanel {
     background:transparent !important;
     border: medium none !important;
