@@ -36,13 +36,7 @@ color: #fff!important;
     padding: 5px 0 0;
 }
 .spriteheading_img {
-    background: rgba(52, 68, 73, 0.3) none repeat scroll 0 0!important;
-}
-
-#heading-home_off {
-    background-image: rgba(52, 68, 73, 0.3) url("https://cpanel.labdz.tk/panel/images/tut_icon.gif") none repeat scroll 0 0!important;
-    height: 37px;
-    width: 35px;
+    background: rgba(52, 68, 73, 0.3)  url("/panel/res/heading_sprites_img.png") repeat scroll 0 0!important;
 }
     
 #cpanel {
