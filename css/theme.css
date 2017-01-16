@@ -14,9 +14,11 @@ a.hover {
 }
 .create-button, .input-button {
     background-color: #1e87f0!important;
+    background-image: none !important;
     border: 1px solid transparent!important;
     color: #fff!important;
 }
+
 .clearitmed {
     display: none !important;
 }
