@@ -1,5 +1,5 @@
 body {
-    background: #EAEBEE none repeat scroll 0 0!important;
+    background: #edeff1 radial-gradient(ellipse at center top , #f2f3f4 20%, #c7cdd4 100%) repeat fixed 0 0!important;
 }
 .cellheading, h3, h6, #notices h6, #quota-warnings h6, #content-stats h6 {
     background: #1B2831 none repeat scroll 0 0!important;
