@@ -8,12 +8,8 @@ body {
     -moz-border-right-colors: none;
     -moz-border-top-colors: none;
     background-color: #FFFFFF none repeat scroll 0 0!important;
-    border-color: 1px solid #ccc!important;
-    border-image: none;
-    border-style: solid;
-    border-width: 1px;
+    border: 1px solid #ccc!important;
     border-radius: 0 0 5px 5px;
-    box-shadow: 0 8px 8px rgba(0, 0, 0, 0.2);
     padding: 0 !important;
     width: 900px !important;
 }
