@@ -9,7 +9,7 @@ body {
     width: 900px !important;
     }
 #cpanel #border-efx {
-    border: #e5e5e5 -moz-use-text-color -moz-use-text-color!important;
+    border: medium none !important;
     margin: 0;
     padding: 0;
 }
