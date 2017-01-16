@@ -1,5 +1,5 @@
 body {
-    background: url("../images/section-background.svg") no-repeat scroll 50% 50%, rgba(0, 0, 0, 0) linear-gradient(to left top, #28a5f5, #1e87f0) no-repeat scroll 0 0;
+    background: #fafafa none repeat scroll 0 0!important;
 }
 
 #cpanel {
@@ -7,7 +7,7 @@ body {
     -moz-border-left-colors: none;
     -moz-border-right-colors: none;
     -moz-border-top-colors: none;
-    background-color: #fafafa none repeat scroll 0 0;
+    background-color: #FFFFFF none repeat scroll 0 0!important;
     border-color: rgba(255, 255, 255, 0.6) !important;
     border-image: none;
     border-style: solid;
