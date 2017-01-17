@@ -55,6 +55,16 @@ background: rgba(255,255,255,.05) url("https://raw.githubusercontent.com/labdz/U
 background-size: 15px;
 border-left: 1px solid rgba(255,255,255,.05);
 }
+#heading-logout_off {
+background: rgba(255,255,255,.05) url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/home.png") no-repeat 10px 8px;
+background-size: 15px;
+border-left: 1px solid rgba(255,255,255,.05);
+}
+#heading-logout_on {
+background: rgba(255,255,255,.05) url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/home.png") no-repeat 10px 8px;
+background-size: 15px;
+border-left: 1px solid rgba(255,255,255,.05);
+}
 #cpanel {
     background:transparent !important;
     border: medium none !important;
