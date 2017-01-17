@@ -39,8 +39,14 @@ color: #fff!important;
 background: rgba(255,255,255,.05) url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/home.png");
 background-repeat: no-repeat;
 background-position: 8px 6px;
-background-size: 18px;
-}   
+background-size: 16px;
+}
+#heading-home_on {
+background: rgba(255,255,255,.05) url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/home.png");
+background-repeat: no-repeat;
+background-position: 8px 6px;
+background-size: 16px;
+} 
 #cpanel {
     background:transparent !important;
     border: medium none !important;
