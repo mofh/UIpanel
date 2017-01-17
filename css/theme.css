@@ -37,6 +37,9 @@ color: #fff!important;
 }
 #heading-home_off {
    background-color: rgba(255,255,255,.05);
+   background: url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/home.png");
+   height: 30px !important;
+}
 }    
 #cpanel {
     background:transparent !important;
