@@ -35,6 +35,9 @@ color: #fff!important;
     height: 20px;
     padding: 5px 0 0;
 }
+#heading-top-billboard {
+    height: 130px !important;
+}
 #heading-home_off {
 background: rgba(255,255,255,.05) url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/home.png") no-repeat 10px 8px;
 background-size: 15px;
