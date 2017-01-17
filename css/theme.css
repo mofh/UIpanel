@@ -40,6 +40,7 @@ background: rgba(255,255,255,.05) url("https://raw.githubusercontent.com/labdz/U
 background-repeat: no-repeat;
 background-position: 8px 6px;
 background-size: 16px;
+border-right: 1px solid rgba(255,255,255,.05);
 }
 #heading-home_on {
 background: rgba(255,255,255,.05) url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/home.png");
@@ -52,12 +53,14 @@ background: rgba(255,255,255,.05) url("https://raw.githubusercontent.com/labdz/U
 background-repeat: no-repeat;
 background-position: 8px 6px;
 background-size: 16px;
+border-right: 1px solid rgba(255,255,255,.05);
 }
 #heading-help_on {
 background: rgba(255,255,255,.05) url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/home.png");
 background-repeat: no-repeat;
 background-position: 8px 6px;
 background-size: 16px;
+border-right: 1px solid rgba(255,255,255,.05);
 }
 #cpanel {
     background:transparent !important;
