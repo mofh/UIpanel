@@ -130,3 +130,8 @@ div.stats_progress_bar {
 #heading-top-billboard {
     background: transparent none repeat scroll 0 0 !important;
 }
+.clearitmed {
+    height: 0 !important;
+    line-height: 0 !important;
+    border: none !important;
+}
