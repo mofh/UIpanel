@@ -51,17 +51,17 @@ background-size: 15px;
 border-left: 1px solid rgba(255,255,255,.05);
 }
 #heading-help_on {
-background: rgba(255,255,255,.05) url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/home.png") no-repeat 10px 8px;
+background: rgba(255,255,255,.06) url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/home.png") no-repeat 10px 8px;
 background-size: 15px;
 border-left: 1px solid rgba(255,255,255,.05);
 }
 #heading-logout_off {
-background: rgba(255,255,255,.05) url("https://github.com/labdz/UIpanel/blob/master/images/logout.png") no-repeat 10px 8px;
+background: rgba(255,255,255,.05) url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/logout.png") no-repeat 10px 8px;
 background-size: 15px;
 border-left: 1px solid rgba(255,255,255,.05);
 }
 #heading-logout_on {
-background: rgba(255,255,255,.06) url("https://github.com/labdz/UIpanel/blob/master/images/logout.png") no-repeat 10px 8px;
+background: rgba(255,255,255,.06) url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/logout.png") no-repeat 10px 8px;
 background-size: 15px;
 border-left: 1px solid rgba(255,255,255,.05);
 }
