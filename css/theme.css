@@ -36,9 +36,10 @@ color: #fff!important;
     padding: 5px 0 0;
 }
 #heading-home_off {
-   background-color: rgba(255,255,255,.05);
-   background: url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/home.png");
-   height: 30px !important;
+background: rgba(255,255,255,.05) url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/home.png");
+background-repeat: no-repeat;
+background-position: 8px 6px;
+background-size: 18px;
 }
 }    
 #cpanel {
