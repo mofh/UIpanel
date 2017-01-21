@@ -114,8 +114,9 @@ div.stats_progress_bar {
     background: #fafafa none repeat scroll 0 0 !important;
 }
 #cpanel #border-efx #heading-top-header-bg #heading-top-billboard #logo {
-    left: 0!important;
-    top: 50px!important;
+    left: 0 !important;
+    position: static !important;
+    top: 0 !important;
 }
 .regform {
     float: right !important;
@@ -132,4 +133,8 @@ div.stats_progress_bar {
     height: 0 !important;
     line-height: 0 !important;
     border: none !important;
+}
+.toplogo {
+    height: 45px;
+    width: 150px;
 }
