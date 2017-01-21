@@ -141,8 +141,13 @@ div.stats_progress_bar {
     display: inline-block;
     margin: 0 auto !important;
 }
+.icon_wrap img {
+    background-color: #FBFBFC;
+    border-radius: 50%;
+    padding: 5px;
+}
 #icon-password {
-    background: #16aaca url("http://image.flaticon.com/icons/png/32/159/159478.png") no-repeat scroll 5px 5px;
+    background: #FBFBFC url("http://image.flaticon.com/icons/png/32/159/159478.png") no-repeat scroll 5px 5px;
     border-radius: 50%;
     height: 32px;
     margin: 0;
@@ -150,7 +155,7 @@ div.stats_progress_bar {
     width: 32px;
 }
 #icon-updatecontact {
-    background: #16aaca url("http://image.flaticon.com/icons/png/32/52/52027.png") no-repeat scroll 5px 5px;
+    background: #FBFBFC url("http://image.flaticon.com/icons/png/32/52/52027.png") no-repeat scroll 5px 5px;
     border-radius: 50%;
     height: 32px;
     margin: 0;
@@ -158,7 +163,7 @@ div.stats_progress_bar {
     width: 32px;
 }
 #icon-changelang {
-    background: #16aaca url("http://image.flaticon.com/icons/png/32/176/176272.png") no-repeat scroll 5px 5px;
+    background: #FBFBFC url("http://image.flaticon.com/icons/png/32/176/176272.png") no-repeat scroll 5px 5px;
     border-radius: 50%;
     height: 32px;
     margin: 0;
@@ -166,7 +171,7 @@ div.stats_progress_bar {
     width: 32px;
 }
 #icon-favorites {
-    background: #16aaca url("http://image.flaticon.com/icons/png/32/62/62963.png") no-repeat scroll 5px 5px;
+    background: #FBFBFC url("http://image.flaticon.com/icons/png/32/62/62963.png") no-repeat scroll 5px 5px;
     border-radius: 50%;
     height: 32px;
     margin: 0;
