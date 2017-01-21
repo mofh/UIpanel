@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
 body {
-    background: #edeff1 radial-gradient(ellipse at center top , #f2f3f4 20%, #c7cdd4 100%) repeat fixed 0 0!important;
+    background:#FFFFFF !important;
     font-family: 'Roboto', sans-serif!important;
 }
 a {
