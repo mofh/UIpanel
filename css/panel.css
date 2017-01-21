@@ -81,10 +81,7 @@ border-left: 1px solid rgba(255,255,255,.05);
     padding: 0;
 }
 #cpanel #border-efx #content {
-    background: #FAFAFA none repeat scroll 0 0;
-    border-color: #ccc;
-    border-style: solid;
-    border-width: 1px;
+    border: none !important;
 }
 #cpanel #border-efx #content #sub {
     width: 250px!important;
