@@ -137,3 +137,11 @@ div.stats_progress_bar {
     height: 45px;
     width: 150px;
 }
+#icon-favorites {
+    background: #16aaca url("http://image.flaticon.com/icons/png/32/62/62963.png") no-repeat scroll 5px 5px;
+    border-radius: 50%;
+    height: 32px;
+    margin: 0;
+    padding: 5px;
+    width: 32px;
+}
