@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body {
+    background: #edeff1 radial-gradient(ellipse at center top , #f2f3f4 20%, #c7cdd4 100%) repeat fixed 0 0!important;
+    font-family: 'Roboto', sans-serif!important;
+}
+a {
+    color: #2a2d31 !important;
+    text-decoration: none;
+}
+a.hover {
+    color: #54aacb !important;
+    text-decoration: none;
+}
+.clearit {
+    display: none !important;
+}
+.create-button, .input-button {
+    background-color: #1e87f0!important;
+    background-image: none !important;
+    border: 1px solid transparent!important;
+    color: #fff!important;
+}
+#tutorial_show {
+    background: #1e87f0 url("https://cpanel.labdz.tk/panel/images/tut_icon.gif") no-repeat scroll 6px 50%!important;
+    background-image: none !important;
+    border: 1px solid transparent!important;
+color: #fff!important;
+}
+
+.cellheading, h3, h6, #notices h6, #quota-warnings h6, #content-stats h6 {
+    background: #f7f7f7 linear-gradient(to bottom, #f9f9f9, #f0f0f0) repeat scroll 0 0!important;
+    color: #515456;
+    font-family: "Roboto",sans-serif;
+    height: 20px;
+    padding: 5px 0 0;
+}
+#heading-top-billboard {
+    height: 130px !important;
+}
+#heading-home_off {
+background: rgba(255,255,255,.05) url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/home.png") no-repeat 10px 8px;
+background-size: 15px;
+border-right: 1px solid rgba(255,255,255,.05);
+}
+#heading-home_on {
+background: rgba(255,255,255,.08) url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/home.png") no-repeat 10px 8px;
+background-size: 15px;
+border-right: 1px solid rgba(255,255,255,.05);
+}
+#heading-help_off {
+background: rgba(255,255,255,.05) url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/help.png") no-repeat 10px 8px;
+background-size: 15px;
+border-left: 1px solid rgba(255,255,255,.05);
+}
+#heading-help_on {
+background: rgba(255,255,255,.08) url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/help.png") no-repeat 10px 8px;
+background-size: 15px;
+border-left: 1px solid rgba(255,255,255,.05);
+}
+#heading-logout_off {
+background: rgba(255,255,255,.05) url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/logout.png") no-repeat 10px 8px;
+background-size: 15px;
+border-left: 1px solid rgba(255,255,255,.05);
+}
+#heading-logout_on {
+background: rgba(255,255,255,.08) url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/logout.png") no-repeat 10px 8px;
+background-size: 15px;
+border-left: 1px solid rgba(255,255,255,.05);
+}
+#cpanel {
+    background:transparent !important;
+    border: medium none !important;
+    border-radius: 0 0 5px 5px;
+    padding: 0 !important;
+    width: 900px !important;
+    }
+#cpanel #border-efx {
+    border: medium none !important;
+    margin: 0;
+    padding: 0;
+}
+#cpanel #border-efx #content {
+    background: #FAFAFA none repeat scroll 0 0;
+    border-color: #ccc;
+    border-style: solid;
+    border-width: 1px;
+}
+#cpanel #border-efx #content #sub {
+    width: 250px!important;
+}
+#cpanel #border-efx #content #main {
+    width: 600px!important;
+}
+.cellbox {
+    background: #FAFAFA none repeat scroll 0 0;
+    border: #e5e5e5 -moz-use-text-color -moz-use-text-color;
+    border-radius: 0 0 3px 3px;
+}
+div.stats_progress_bar {
+    -moz-appearance: none;
+    background-color: #f8f8f8;
+    border: 0 none!important;
+    border-radius: 500px;
+    display: block;
+    height: 15px!important;
+    overflow: hidden;
+    width: 100%!important;
+}
+.spriteheading_bg {
+    background: #293a4a none repeat scroll 0 0 !important;
+    border-color: #fff;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 0 0 5px 5px;
+    height: 30px !important;
+}
+.spriteheading_compleximg {
+    background: #fafafa none repeat scroll 0 0 !important;
+}
+#cpanel #border-efx #heading-top-header-bg #heading-top-billboard #logo {
+    left: 0!important;
+    top: 50px!important;
+}
+.regform {
+    float: right !important;
+    height: 80px;
+    position: relative;
+    text-align: left;
+    top: 47px;
+    width: 380px;
+}
+#heading-top-billboard {
+    background: transparent none repeat scroll 0 0 !important;
+}
+.clearitmed {
+    height: 0 !important;
+    line-height: 0 !important;
+    border: none !important;
+}
