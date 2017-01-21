@@ -84,7 +84,7 @@ border-left: 1px solid rgba(255,255,255,.05);
     border: none !important;
 }
 #cpanel #border-efx #content #sub {
-    width: 250px!important;
+    width: 15% !important;
 }
 #cpanel #border-efx #content #main {
     width: 600px!important;
