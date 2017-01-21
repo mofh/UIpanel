@@ -39,14 +39,13 @@ color: #fff!important;
     height: 130px !important;
 }
 #heading-home_off {
-background: rgba(255,255,255,.05) url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/home.png") no-repeat 10px 8px;
-background-size: 15px;
-border-right: 1px solid rgba(255,255,255,.05);
+   background: rgba(0, 0, 0, 0) none repeat scroll 0 0 !important;
+    height: 45px !important;
+    position: absolute !important;
+    width: 150px !important;
 }
 #heading-home_on {
-background: rgba(255,255,255,.08) url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/home.png") no-repeat 10px 8px;
-background-size: 15px;
-border-right: 1px solid rgba(255,255,255,.05);
+display: none !important;
 }
 #heading-help_off {
 background: rgba(255,255,255,.05) url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/help.png") no-repeat 10px 8px;
