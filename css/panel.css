@@ -138,7 +138,7 @@ div.stats_progress_bar {
     width: 150px;
 }
 .icon_wrap {
-    display: inherit;
+    display: inline-block;
     margin: 0 auto !important;
 }
 #icon-favorites {
