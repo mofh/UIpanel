@@ -38,6 +38,9 @@ background: #f7f7f7 linear-gradient(to bottom, #f9f9f9, #f0f0f0) repeat scroll 0
 #heading-top-billboard {
     height: 130px !important;
 }
+#logo {
+    display: none !important;
+}
 #heading-home_off {
     background: rgba(0, 0, 0, 0) url("http://cpanel.labdz.tk/images/vplogo.png") no-repeat scroll 0 0 / 170px auto;
     height: 40px !important;
