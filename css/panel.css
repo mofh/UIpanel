@@ -290,6 +290,12 @@ border-radius: 50%;
 height: 35px;margin: 0;
 padding: 5px;
 width: 35px;}
+#icon-php {
+background:#ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/php.png") no-repeat scroll 5px 5px / 32px auto;
+border-radius: 50%;
+height: 35px;margin: 0;
+padding: 5px;
+width: 35px;}
 #icon-cron {
 background: #ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/cron.png") no-repeat scroll 6px 6px / 32px auto;
 border-radius: 50%;
@@ -332,9 +338,22 @@ border-radius: 50%;
 height: 35px;margin: 0;
 padding: 5px;
 width: 35px;}
-#icon-php {
-background:#ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/php.png") no-repeat scroll 5px 5px / 32px auto;
+#icon-supnewticket {
+background: #ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/supnewticket.png") no-repeat scroll 6px 6px / 32px auto;
 border-radius: 50%;
 height: 35px;margin: 0;
 padding: 5px;
 width: 35px;}
+#icon-suplistopenticket {
+background: #ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/suplistopenticket.png") no-repeat scroll 6px 6px / 32px auto;
+border-radius: 50%;
+height: 35px;margin: 0;
+padding: 5px;
+width: 35px;}
+#icon-suplistclosedticket {
+background: #ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/suplistclosedticket.png") no-repeat scroll 6px 6px / 32px auto;
+border-radius: 50%;
+height: 35px;margin: 0;
+padding: 5px;
+width: 35px;}
+
