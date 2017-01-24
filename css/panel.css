@@ -75,6 +75,9 @@ background: rgba(255,255,255,.08) url("https://raw.githubusercontent.com/labdz/U
 background-size: 15px;
 border-left: 1px solid rgba(255,255,255,.05);
 }
+#register {
+    display: none !important;
+}
 #cpanel {
 background:transparent !important;
     border: medium none !important;
@@ -130,7 +133,7 @@ background: #fafafa none repeat scroll 0 0 !important;
     height: 80px;
     position: relative;
     text-align: left;
-    top: 47px;
+    top: 5px;
     width: 380px;
 }
 #heading-top-billboard {
