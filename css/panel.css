@@ -213,13 +213,19 @@ height: 35px;margin: 0;
 padding: 5px;
 width: 35px;}
 #icon-hdspace {
-background: #EBEFF2 url("http://image.flaticon.com/icons/png/32/149/149202.png") no-repeat scroll 6px 6px / 32px auto;
+background: #ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/hdspace.png") no-repeat scroll 6px 6px / 32px auto;
 border-radius: 50%;
 height: 35px;margin: 0;
 padding: 5px;
 width: 35px;}
 #icon-ftpaccounts {
-background: #EBEFF2 url("http://image.flaticon.com/icons/png/32/59/59887.png") no-repeat scroll 6px 6px / 32px auto;
+background: #ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/ftpaccounts.png") no-repeat scroll 6px 6px / 32px auto;
+border-radius: 50%;
+height: 35px;margin: 0;
+padding: 5px;
+width: 35px;}
+#icon-anonymousmsg {
+background: #ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/anonymousmsg.png") no-repeat scroll 6px 6px / 32px auto;
 border-radius: 50%;
 height: 35px;margin: 0;
 padding: 5px;
