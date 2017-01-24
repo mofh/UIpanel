@@ -147,7 +147,7 @@ div.stats_progress_bar {
     padding: 5px;
 }
 #icon-password {
-background: #ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/Contact.png") no-repeat scroll 8px 8px / 32px auto;
+background: #ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/Password.png") no-repeat scroll 8px 8px / 32px auto;
 border-radius: 50%;
 height: 40px;
 margin: 0;
@@ -163,7 +163,7 @@ padding: 5px;
 width: 40px;
 }
 #icon-changelang {
-background: #EBEFF2 url("http://image.flaticon.com/icons/png/32/176/176272.png") no-repeat scroll 5px 5px;
+background: #ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/Lang.png") no-repeat scroll 8px 8px / 32px auto;
 border-radius: 50%;
 height: 40px;
 margin: 0;
@@ -171,7 +171,7 @@ padding: 5px;
 width: 40px;
 }
 #icon-favorites {
-background: #EBEFF2 url("http://image.flaticon.com/icons/png/32/62/62963.png") no-repeat scroll 5px 5px;
+background: #ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/favorites.png") no-repeat scroll 8px 8px / 32px auto;
 border-radius: 50%;
 height: 40px;
 margin: 0;
@@ -187,6 +187,7 @@ padding: 5px;
 width: 40px;
 }
 #icon-errorlogs {
+background: #ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/errorlogs.png.png") no-repeat scroll 8px 8px / 32px auto;
 border-radius: 50%;
 height: 40px;
 margin: 0;
