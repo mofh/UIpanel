@@ -194,6 +194,12 @@ border-radius: 50%;
 height: 35px;margin: 0;
 padding: 5px;
 width: 35px;}
+#icon-simplezoneedit{
+background: #ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/simplezoneedit.png") no-repeat scroll 6px 6px / 32px auto;
+border-radius: 50%;
+height: 35px;margin: 0;
+padding: 5px;
+width: 35px;}
 #icon-emailmx {
 background: #ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/emailmx.png") no-repeat scroll 6px 6px / 32px auto;
 border-radius: 50%;
