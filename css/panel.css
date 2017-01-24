@@ -39,13 +39,18 @@ background: #f7f7f7 linear-gradient(to bottom, #f9f9f9, #f0f0f0) repeat scroll 0
     height: 130px !important;
 }
 #heading-home_off {
-   background: rgba(0, 0, 0, 0) none repeat scroll 0 0 !important;
-    height: 45px !important;
+    background: rgba(0, 0, 0, 0) url("http://cpanel.labdz.tk/images/vplogo.png") no-repeat scroll 0 0 / 170px auto;
+    height: 40px !important;
+    margin-left: 5px;
     position: absolute !important;
-    width: 150px !important;
+    width: 220px !important;
 }
 #heading-home_on {
-display: none !important;
+background: rgba(0, 0, 0, 0) url("http://cpanel.labdz.tk/images/vplogo.png") no-repeat scroll 0 0 / 170px auto;
+height: 40px !important;
+margin-left: 5px;
+position: absolute !important;
+width: 220px !important;
 }
 #heading-help_off {
 background: rgba(255,255,255,.05) url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/help.png") no-repeat 10px 8px;
