@@ -147,106 +147,104 @@ div.stats_progress_bar {
     padding: 5px;
 }
 #icon-password {
-background: #ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/Password.png") no-repeat scroll 5px 5px / 32px auto;
+background: #ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/Contact.png") no-repeat scroll 8px 8px / 32px auto;
 border-radius: 50%;
-height: 32px;
+height: 40px;
 margin: 0;
 padding: 5px;
-width: 32px;
+width: 40px;
 }
 #icon-updatecontact {
-background: #ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/Contact.png") no-repeat scroll 5px 5px / 32px auto;
-    border-radius: 50%;
-    height: 32px;
-    margin: 0;
-    padding: 5px;
-    width: 32px;
+background: #ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/Contact.png") no-repeat scroll 8px 8px / 32px auto;
+border-radius: 50%;
+height: 40px;
+margin: 0;
+padding: 5px;
+width: 40px;
 }
 #icon-changelang {
-    background: #EBEFF2 url("http://image.flaticon.com/icons/png/32/176/176272.png") no-repeat scroll 5px 5px;
-    border-radius: 50%;
-    height: 32px;
-    margin: 0;
-    padding: 5px;
-    width: 32px;
+background: #EBEFF2 url("http://image.flaticon.com/icons/png/32/176/176272.png") no-repeat scroll 5px 5px;
+border-radius: 50%;
+height: 40px;
+margin: 0;
+padding: 5px;
+width: 40px;
 }
 #icon-favorites {
-    background: #EBEFF2 url("http://image.flaticon.com/icons/png/32/62/62963.png") no-repeat scroll 5px 5px;
-    border-radius: 50%;
-    height: 32px;
-    margin: 0;
-    padding: 5px;
-    width: 32px;
+background: #EBEFF2 url("http://image.flaticon.com/icons/png/32/62/62963.png") no-repeat scroll 5px 5px;
+border-radius: 50%;
+height: 40px;
+margin: 0;
+padding: 5px;
+width: 40px;
 }
 #icon-webemail {
-    background: #EBEFF2 url("http://image.flaticon.com/icons/png/32/95/95031.png") no-repeat scroll 5px 5px;
-    border-radius: 50%;
-    height: 32px;
-    margin: 0;
-    padding: 5px;
-    width: 32px;
+background: #EBEFF2 url("http://image.flaticon.com/icons/png/32/95/95031.png") no-repeat scroll 5px 5px;
+border-radius: 50%;
+height: 40px;
+margin: 0;
+padding: 5px;
+width: 40px;
 }
 #icon-errorlogs {
-    background: #EBEFF2 url("http://image.flaticon.com/icons/png/32/159/159483.png") no-repeat scroll 5px 5px;
-    border-radius: 50%;
-    height: 32px;
-    margin: 0;
-    padding: 5px;
-    width: 32px;
+border-radius: 50%;
+height: 40px;
+margin: 0;
+padding: 5px;
+width: 40px;
 }
 #icon-rawaccesslogs {
-    background: #EBEFF2 url("http://image.flaticon.com/icons/png/32/45/45802.png") no-repeat scroll 5px 5px;
-    border-radius: 50%;
-    height: 32px;
-    margin: 0;
-    padding: 5px;
-    width: 32px;
+border-radius: 50%;
+height: 40px;
+margin: 0;
+padding: 5px;
+width: 40px;
 }
 #icon-hd {
     background: #EBEFF2 url("http://image.flaticon.com/icons/png/32/149/149201.png") no-repeat scroll 5px 5px;
-    border-radius: 50%;
-    height: 32px;
-    margin: 0;
-    padding: 5px;
-    width: 32px;
+border-radius: 50%;
+height: 40px;
+margin: 0;
+padding: 5px;
+width: 40px;
 }
 #icon-filemanager {
     background: #EBEFF2 url("http://image.flaticon.com/icons/png/32/73/73581.png") no-repeat scroll 5px 5px;
-    border-radius: 50%;
-    height: 32px;
-    margin: 0;
-    padding: 5px;
-    width: 32px;
+border-radius: 50%;
+height: 40px;
+margin: 0;
+padding: 5px;
+width: 40px;
 }
 #icon-hdspace {
     background: #EBEFF2 url("http://image.flaticon.com/icons/png/32/149/149202.png") no-repeat scroll 5px 5px;
-    border-radius: 50%;
-    height: 32px;
-    margin: 0;
-    padding: 5px;
-    width: 32px;
+border-radius: 50%;
+height: 40px;
+margin: 0;
+padding: 5px;
+width: 40px;
 }
 #icon-ftpaccounts {
     background: #EBEFF2 url("http://image.flaticon.com/icons/png/32/59/59887.png") no-repeat scroll 5px 5px;
-    border-radius: 50%;
-    height: 32px;
-    margin: 0;
-    padding: 5px;
-    width: 32px;
+border-radius: 50%;
+height: 40px;
+margin: 0;
+padding: 5px;
+width: 40px;
 }
 #icon-ssl-manager {
     background: #EBEFF2 url("http://image.flaticon.com/icons/png/32/109/109140.png") no-repeat scroll 5px 5px;
-    border-radius: 50%;
-    height: 32px;
-    margin: 0;
-    padding: 5px;
-    width: 32px;
+border-radius: 50%;
+height: 40px;
+margin: 0;
+padding: 5px;
+width: 40px;
 }
 #icon-php {
     background:#ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/php.png") no-repeat scroll 5px 5px / 32px auto;
-    border-radius: 50%;
-    height: 32px;
-    margin: 0;
-    padding: 5px;
-    width: 32px;
+border-radius: 50%;
+height: 40px;
+margin: 0;
+padding: 5px;
+width: 40px;
 }
