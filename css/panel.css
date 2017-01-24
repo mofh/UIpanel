@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
 body {
-    background:#FFFFFF !important;
+background:#FFFFFF !important;
     font-family: 'Roboto', sans-serif!important;
 }
 a {
@@ -16,20 +16,20 @@ a.hover {
     display: none !important;
 }
 .create-button, .input-button {
-    background-color: #1e87f0!important;
-    background-image: none !important;
+background-color: #1e87f0!important;
+background-image: none !important;
     border: 1px solid transparent!important;
     color: #fff!important;
 }
 #tutorial_show {
-    background: #1e87f0 url("https://cpanel.labdz.tk/panel/images/tut_icon.gif") no-repeat scroll 6px 50%!important;
-    background-image: none !important;
+background: #1e87f0 url("https://cpanel.labdz.tk/panel/images/tut_icon.gif") no-repeat scroll 6px 50%!important;
+background-image: none !important;
     border: 1px solid transparent!important;
 color: #fff!important;
 }
 
 .cellheading, h3, h6, #notices h6, #quota-warnings h6, #content-stats h6 {
-    background: #f7f7f7 linear-gradient(to bottom, #f9f9f9, #f0f0f0) repeat scroll 0 0!important;
+background: #f7f7f7 linear-gradient(to bottom, #f9f9f9, #f0f0f0) repeat scroll 0 0!important;
     color: #515456;
     font-family: "Roboto",sans-serif;
     height: 20px;
@@ -68,7 +68,7 @@ background-size: 15px;
 border-left: 1px solid rgba(255,255,255,.05);
 }
 #cpanel {
-    background:transparent !important;
+background:transparent !important;
     border: medium none !important;
     border-radius: 0 0 5px 5px;
     padding: 0 !important;
@@ -89,13 +89,13 @@ border-left: 1px solid rgba(255,255,255,.05);
     width: 80% !important;
 }
 .cellbox {
-    background: #FFFFFF none repeat scroll 0 0;
+background: #FFFFFF none repeat scroll 0 0;
     border: #e5e5e5 -moz-use-text-color -moz-use-text-color;
     border-radius: 0 0 3px 3px;
 }
 div.stats_progress_bar {
     -moz-appearance: none;
-    background-color: #f8f8f8;
+background-color: #f8f8f8;
     border: 0 none!important;
     border-radius: 500px;
     display: block;
@@ -106,11 +106,11 @@ div.stats_progress_bar {
 .spriteheading_bg {
     position: relative;
     display: block;
-    background: #0288d1 !important;
+background: #0288d1 !important;
     height: 40px !important;
 }
 .spriteheading_compleximg {
-    background: #fafafa none repeat scroll 0 0 !important;
+background: #fafafa none repeat scroll 0 0 !important;
 }
 #cpanel #border-efx #heading-top-header-bg #heading-top-billboard #logo {
     left: 0 !important;
@@ -126,7 +126,7 @@ div.stats_progress_bar {
     width: 380px;
 }
 #heading-top-billboard {
-    background: transparent none repeat scroll 0 0 !important;
+background: transparent none repeat scroll 0 0 !important;
 }
 .clearitmed {
     height: 0 !important;
@@ -142,110 +142,85 @@ div.stats_progress_bar {
     margin: 0 auto !important;
 }
 .icon_wrap img {
-    background-color: #EBEFF2;
+background-color: #EBEFF2;
     border-radius: 50%;
     padding: 5px;
 }
 #icon-password {
-background: #ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/Password.png") no-repeat scroll 8px 8px / 32px auto;
+background: #ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/Password.png") no-repeat scroll 6px 6px / 32px auto;
 border-radius: 50%;
-height: 40px;
-margin: 0;
+height: 35px;margin: 0;
 padding: 5px;
-width: 40px;
-}
+width: 35px;}
 #icon-updatecontact {
-background: #ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/Contact.png") no-repeat scroll 8px 8px / 32px auto;
+background: #ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/Contact.png") no-repeat scroll 6px 6px / 32px auto;
 border-radius: 50%;
-height: 40px;
-margin: 0;
+height: 35px;margin: 0;
 padding: 5px;
-width: 40px;
-}
+width: 35px;}
 #icon-changelang {
-background: #ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/Lang.png") no-repeat scroll 8px 8px / 32px auto;
+background: #ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/Lang.png") no-repeat scroll 6px 6px / 32px auto;
 border-radius: 50%;
-height: 40px;
-margin: 0;
+height: 35px;margin: 0;
 padding: 5px;
-width: 40px;
-}
+width: 35px;}
 #icon-favorites {
-background: #ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/favorites.png") no-repeat scroll 8px 8px / 32px auto;
+background: #ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/favorites.png") no-repeat scroll 6px 6px / 32px auto;
 border-radius: 50%;
-height: 40px;
-margin: 0;
+height: 35px;margin: 0;
 padding: 5px;
-width: 40px;
-}
+width: 35px;}
 #icon-webemail {
-background: #EBEFF2 url("http://image.flaticon.com/icons/png/32/95/95031.png") no-repeat scroll 5px 5px;
+background: #EBEFF2 url("http://image.flaticon.com/icons/png/32/95/95031.png") no-repeat scroll 6px 6px / 32px auto;
 border-radius: 50%;
-height: 40px;
-margin: 0;
+height: 35px;margin: 0;
 padding: 5px;
-width: 40px;
-}
+width: 35px;}
 #icon-errorlogs {
-background: #ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/errorlogs.png.png") no-repeat scroll 8px 8px / 32px auto;
+background: #ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/errorlogs.png") no-repeat scroll 6px 6px / 32px auto;
 border-radius: 50%;
-height: 40px;
-margin: 0;
+height: 35px;margin: 0;
 padding: 5px;
-width: 40px;
-}
+width: 35px;}
 #icon-rawaccesslogs {
+background: #ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/rawaccesslogs.png") no-repeat scroll 6px 6px / 32px auto;
 border-radius: 50%;
-height: 40px;
-margin: 0;
+height: 35px;margin: 0;
 padding: 5px;
-width: 40px;
-}
+width: 35px;}
 #icon-hd {
-    background: #EBEFF2 url("http://image.flaticon.com/icons/png/32/149/149201.png") no-repeat scroll 5px 5px;
+background: #EBEFF2 url("http://image.flaticon.com/icons/png/32/149/149201.png") no-repeat scroll 6px 6px / 32px auto;
 border-radius: 50%;
-height: 40px;
-margin: 0;
+height: 35px;margin: 0;
 padding: 5px;
-width: 40px;
-}
+width: 35px;}
 #icon-filemanager {
-    background: #EBEFF2 url("http://image.flaticon.com/icons/png/32/73/73581.png") no-repeat scroll 5px 5px;
+background: #EBEFF2 url("http://image.flaticon.com/icons/png/32/73/73581.png") no-repeat scroll 6px 6px / 32px auto;
 border-radius: 50%;
-height: 40px;
-margin: 0;
+height: 35px;margin: 0;
 padding: 5px;
-width: 40px;
-}
+width: 35px;}
 #icon-hdspace {
-    background: #EBEFF2 url("http://image.flaticon.com/icons/png/32/149/149202.png") no-repeat scroll 5px 5px;
+background: #EBEFF2 url("http://image.flaticon.com/icons/png/32/149/149202.png") no-repeat scroll 6px 6px / 32px auto;
 border-radius: 50%;
-height: 40px;
-margin: 0;
+height: 35px;margin: 0;
 padding: 5px;
-width: 40px;
-}
+width: 35px;}
 #icon-ftpaccounts {
-    background: #EBEFF2 url("http://image.flaticon.com/icons/png/32/59/59887.png") no-repeat scroll 5px 5px;
+background: #EBEFF2 url("http://image.flaticon.com/icons/png/32/59/59887.png") no-repeat scroll 6px 6px / 32px auto;
 border-radius: 50%;
-height: 40px;
-margin: 0;
+height: 35px;margin: 0;
 padding: 5px;
-width: 40px;
-}
+width: 35px;}
 #icon-ssl-manager {
-    background: #EBEFF2 url("http://image.flaticon.com/icons/png/32/109/109140.png") no-repeat scroll 5px 5px;
+background: #EBEFF2 url("http://image.flaticon.com/icons/png/32/109/109140.png") no-repeat scroll 6px 6px / 32px auto;
 border-radius: 50%;
-height: 40px;
-margin: 0;
+height: 35px;margin: 0;
 padding: 5px;
-width: 40px;
-}
+width: 35px;}
 #icon-php {
-    background:#ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/php.png") no-repeat scroll 5px 5px / 32px auto;
+background:#ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/php.png") no-repeat scroll 5px 5px / 32px auto;
 border-radius: 50%;
-height: 40px;
-margin: 0;
+height: 35px;margin: 0;
 padding: 5px;
-width: 40px;
-}
+width: 35px;}
