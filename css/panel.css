@@ -302,8 +302,20 @@ border-radius: 50%;
 height: 35px;margin: 0;
 padding: 5px;
 width: 35px;}
-#icon-icon-errorpage {
+#icon-errorpage {
 background: #ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/errorpage.png") no-repeat scroll 6px 6px / 32px auto;
+border-radius: 50%;
+height: 35px;margin: 0;
+padding: 5px;
+width: 35px;}
+#icon-password-protect {
+background: #ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/password-protect.png") no-repeat scroll 6px 6px / 32px auto;
+border-radius: 50%;
+height: 35px;margin: 0;
+padding: 5px;
+width: 35px;}
+#icon-webalizerlog {
+background: #ebeff2 url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/webalizerlog.png") no-repeat scroll 6px 6px / 32px auto;
 border-radius: 50%;
 height: 35px;margin: 0;
 padding: 5px;
